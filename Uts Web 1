@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Contoh Program HTML</title>
+
+</head>
+
+<body>
+
+    <h1>Selamat Datang di Contoh Program HTML</h1>
+
+    <p>Ini adalah tugas UTS pemrograman web</p>
+
+    <a href="https://www.imhere.com">about us</a>
+
+    
+
+<p></p>
+
+    <img src"" alt="Gambar_Langit" style="width:500px;height:400px;">
+
+    
+
+    <p></p>
+
+    <table border="1"cellpadding="10">
+
+        <thead>
+
+            <body>
+
+            <tr>
+
+                <th> Nama </th>
+
+                <th> Umur </th>
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+            <tr>
+
+                <td>Muhamamd Iqbal</td>
+
+                <td> 25 </td>
+
+            </tr>
+
+            </tr>
+
+        </tbody>
+
+    </table>
+
+    <h3> list makanan yang dibeli :<h3>
+
+    <ul>
+
+        <li>martabak</li>
+
+        <li>nasi goreng</li>
+
+        <li>ayam bakar</li>
+
+    </ul>
+
+     <h3> list minuman yang dibeli :<h3>
+
+    <ul>
+
+        <li>Es jeruk</li>
+
+        <li>Es Tes </li>
+
+        <li>Jus mangga</li>
+
+    </ul>
+
+</body>
+
+</html>
